@@ -7,4 +7,4 @@ python applications,
 web applications,
 MATLAB applications,
 
-# Bug has been removed
+# Bug has been removed.
