@@ -6,3 +6,6 @@ dominion
 paul
 zino
 mike
+dan
+kweku
+ojo
